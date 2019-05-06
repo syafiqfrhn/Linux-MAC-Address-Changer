@@ -1,4 +1,4 @@
-## Linux-MAC-Address-Changer
+# Linux MAC Address Changer
 
 The Python 2.7 console program for Linux. The program is used to change MAC address on any network interface.
 
