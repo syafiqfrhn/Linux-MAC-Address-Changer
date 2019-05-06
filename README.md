@@ -12,6 +12,8 @@ This program have two command options (excluding --help):
   
 &nbsp;&nbsp;&nbsp;The new MAC address.
 
+Credit: Zaid Sabih
+
 ## How to Use
 
 **1.** Install Python 2 on your system, if your Linux distro do not has Python 2 pre-installed.
