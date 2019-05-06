@@ -20,10 +20,10 @@ Credit: Zaid Sabih
 
 **2.** Using Terminal, simply use this command:
 
-&nbsp;&nbsp;&nbsp;"python mac_changer_complete.py --interface INTERFACE_NAME -macaddress NEW_MAC_ADDRESS"
+&nbsp;&nbsp;&nbsp;"python mac_changer_v1.py --interface INTERFACE_NAME -macaddress NEW_MAC_ADDRESS"
    
 &nbsp;&nbsp;&nbsp;**OR**
    
-&nbsp;&nbsp;&nbsp;"python mac_changer_complete.py -i INTERFACE_NAME -m NEW_MAC_ADDRESS"
+&nbsp;&nbsp;&nbsp;"python mac_changer_v1.py -i INTERFACE_NAME -m NEW_MAC_ADDRESS"
 
 **3.** Done
